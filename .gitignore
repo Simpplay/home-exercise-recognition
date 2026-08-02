@@ -1,0 +1,10 @@
+/*_cls*/
+Clasificador de Imagenes/
+
+*.pt
+!/modelos_finales/*.pt
+
+# Dataset con fotos de las personas participantes: no se publica en GitHub,
+# se sube aparte a Google Drive (ver sección 1 del notebook).
+/dataset/
+sin_deteccion.txt
