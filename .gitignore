@@ -1,5 +1,4 @@
 /*_cls*/
-Clasificador de Imagenes/
 
 *.pt
 !/modelos_finales/*.pt
@@ -8,3 +7,6 @@ Clasificador de Imagenes/
 # se sube aparte a Google Drive (ver sección 1 del notebook).
 /dataset/
 sin_deteccion.txt
+
+*.md
+~README.md
